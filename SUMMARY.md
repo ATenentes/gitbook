@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [🅰 Athena DexFi](athena-dexfi/README.md)
+* [🅰 Athena DexFi](README.md)
   * [⚙ Platform](athena-dexfi/platform/README.md)
     * [🪛 Configurations](athena-dexfi/platform/configurations/README.md)
       * [👨🏭 Trader Factory](athena-dexfi/platform/configurations/trader-factory.md)
