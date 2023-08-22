@@ -2,8 +2,6 @@
 description: Visit the Dev Documents
 ---
 
-# Dev-Docs
+# 📖 Dev-Docs
 
-{% content-ref url="dev-docs.md" %}
-[dev-docs.md](dev-docs.md)
-{% endcontent-ref %}
+{% embed url="https://docs.athenadexfi.io/dev-docs/" %}

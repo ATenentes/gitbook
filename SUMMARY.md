@@ -107,4 +107,4 @@
   * [🦊 How to add ATH token in Metamask](general-knowledge/how-to-add-ath-token-in-metamask.md)
   * [📝 How to Add ATH token in Trust Wallet](general-knowledge/how-to-add-ath-token-in-trust-wallet.md)
   * [❓ FAQ](general-knowledge/faq.md)
-* [Dev-Docs](dev-docs.md)
+* [📖 Dev-Docs](dev-docs.md)
