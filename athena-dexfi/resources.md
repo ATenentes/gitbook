@@ -4,11 +4,11 @@ description: In this page you can get the important resources for Athena DexFi
 
 # 🗃 Resources
 
-## White Paper
+## White Paper:
 
 {% file src="../.gitbook/assets/WHITEPAPER_ATHENA_CRYPTO_BANK.pdf" %}
 
-## Pitch Deck
+## Pitch Deck:
 
 {% file src="../.gitbook/assets/AthenaPitchNew.pdf" %}
 
