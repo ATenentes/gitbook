@@ -6,7 +6,7 @@ description: >-
 
 # 🤝 Partnerships Program
 
-<figure><img src="../../../.gitbook/assets/partners.PNG" alt=""><figcaption><p>Partnerships Program</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/DexFi.png" alt=""><figcaption></figcaption></figure>
 
 Influencers and content creators can earn 10% from the profit of the users they've invited to the platform. Influencers don't need to lock ATH tokens to the platform to get 10% commissions on all their referrals. But wait, theres more.....
 

@@ -21,7 +21,7 @@ description: The native token of Athena DexFi
 
 **ATH** Levels are divided into 4 tiers, advantages of owning **ATHENA** tokens (**ATH**) Reduce trading fees, Priority access to presales, and Participation in governance.
 
-<figure><img src="../../../.gitbook/assets/ATH Levels.PNG" alt=""><figcaption><p>Athena Levels</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Untitled design (38).png" alt=""><figcaption></figcaption></figure>
 
 **Note:**
 
