@@ -6,11 +6,9 @@ description: >-
 
 # 🅰 Athena DexFi
 
-<div align="left">
 
-<figure><img src=".gitbook/assets/AthenaDexFi.gif.GIF" alt=""><figcaption></figcaption></figure>
 
-</div>
+<figure><img src=".gitbook/assets/AthenaDexFiSuperMin (1).gif" alt=""><figcaption></figcaption></figure>
 
 **Athena DexFi** is a **decentralized** crypto trading platform, where users can participate in upcoming IDOs researched carefully by our team with automatic investments, staking, lending and borrowing, short integration, stop-loss, stop-market order, and smart contract factory in **DeFi. Athena DexFi** also has **Trading contracts** that help the user manage their coins with more security (for example, if a hacker compromises our metamask he doesn't know that there are coins we are managing through a contract). Anyone can open their contract and be the owner without asking the admin for permission. The trader does not pay any fees to the platform and can use all these tools for free. If other users decide to copy trade this contract, we will ask for a commission on the profit, through this commission we will pay the trader and the platform.
 
