@@ -50,7 +50,7 @@ Create a bybit account, if you don’t have one use our referral link to save on
 
 <figure><img src="../../.gitbook/assets/Schermata-2022-12-14-alle-04.46.40-1024x501 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Note: These are the commissions based on the level, see the link below for more info:**&#x20;
+**Note: These are the commissions based on the level, see the link below for more info:**
 
 {% content-ref url="ath-token-levels/" %}
 [ath-token-levels](ath-token-levels/)
@@ -58,6 +58,4 @@ Create a bybit account, if you don’t have one use our referral link to save on
 
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |**  ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)

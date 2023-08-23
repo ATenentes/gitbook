@@ -18,8 +18,6 @@ After clicking **WalletConnect** the system will show you a **QR code** that you
 
 <figure><img src="../../../../.gitbook/assets/qr.PNG" alt=""><figcaption></figcaption></figure>
 
-
-
 Open your trust wallet or safepal wallet and go to settings and scan the **QR code**
 
 <figure><img src="../../../../.gitbook/assets/photo_2022-12-03_14-12-03 (2).jpg" alt=""><figcaption><p><strong>Go to trustwallet settings, in safepal you can access the qr scanner at the upper right corner</strong></p></figcaption></figure>
@@ -44,6 +42,4 @@ Congrats! you are now connected to the **Athena DexFi** Platform
 
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |**  ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)

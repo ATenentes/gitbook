@@ -30,8 +30,6 @@ After you click continue you will need to fill up the recovery phrase
 
 <figure><img src="../../../../.gitbook/assets/image (23).png" alt=""><figcaption><p><strong>backup and verify your recovery phrase</strong></p></figcaption></figure>
 
-
-
 Congrats! You've successfully created the trust wallet!
 
 **Note:** For all the transactions you will make to Athena Crypto DexFi, You need to confirm it in your trust wallet mobile app, or else it will fail.
@@ -40,6 +38,4 @@ Congrats! You've successfully created the trust wallet!
 
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |**  ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)

@@ -10,7 +10,7 @@ description: The native token of Athena DexFi
 
 **Basic Token Information**
 
-**ATH** token Address:&#x20;
+**ATH** token Address:
 
 **ATH** levels:
 
@@ -27,10 +27,6 @@ description: The native token of Athena DexFi
 
 To move up to a higher level, users are required to lock their token for **6 months** in a contract; upon expiration, the funds held in the contract will be returned to the investors, **diminished** by **5%** to cover the fee for the liquidity pool on **Pancakeswap** which is **1%**.
 
-
-
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |**  ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)

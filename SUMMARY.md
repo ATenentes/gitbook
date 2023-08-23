@@ -20,6 +20,7 @@
     * [📊 CEX Copy Trading](athena-dexfi/platform/cex-copy-trading.md)
   * [📚 Research](athena-dexfi/research.md)
   * [🕵♂ Audit](athena-dexfi/audit.md)
+  * [🗃 Resources](athena-dexfi/resources.md)
   * [🛣 Roadmap](athena-dexfi/roadmap.md)
   * [👨💻 Development Documentation](athena-dexfi/development-documentation/README.md)
     * [📔 Smart Contracts](athena-dexfi/development-documentation/smart-contracts/README.md)
