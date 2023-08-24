@@ -8,11 +8,19 @@ description: >-
 
 <figure><img src="../../../.gitbook/assets/DexFi.png" alt=""><figcaption></figcaption></figure>
 
-Influencers and content creators can earn 10% from the profit of the users they've invited to the platform. Influencers don't need to lock ATH tokens to the platform to get 10% commissions on all their referrals. But wait, theres more.....
+Influencers and Professional traders can earn 10% from the profit of the users they've invited to the platform with level 2 referral system for more info kindly visit:
 
-The commissions can go up to 20% for influencers without locking any ATH tokens if they can create a content or a video promotion for Athena DexFi platform. If you are a influencer and want to get more information, kindly visit this link below and we can set up a meeting for further discussion.
+{% content-ref url="./" %}
+[.](./)
+{% endcontent-ref %}
+
+Influencers and traders don't need to lock ATH tokens to the platform to get 10% commissions on all their referrals. But wait, theres more.....
+
+The commissions can go up to 20% for both influencers and traders without locking any ATH tokens if they can create a content or a video promotion for Athena DexFi platform. If you are a influencer and want to get more information, kindly visit this link below and we can set up a meeting for further discussion.
 
 [https://partners.athenacryptobank.io/](https://partners.athenacryptobank.io/)
+
+### Note: This is not for everyone, Trader or Influencer must already have a solid community to be able to participate in this program.
 
 ## Important Resources:
 
