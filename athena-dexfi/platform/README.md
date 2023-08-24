@@ -22,8 +22,8 @@ description: A decentralized platform that provides features like centralized ex
 
 For detailed guide on how to create a trading contract, kindly visit this link below
 
-{% content-ref url="configurations/" %}
-[configurations](configurations/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Important Resources:

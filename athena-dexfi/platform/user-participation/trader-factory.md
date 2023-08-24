@@ -1,10 +1,10 @@
 ---
 description: >-
-  In this page you will learn how to use the trader factory for creating a
-  trader contract in Athena DexFi Platform
+  In this page you will learn how to create a trader contract in Athena DexFi
+  Platform
 ---
 
-# 👨🏭 Trader Factory
+# 👨🏭 Create a Trader Contract
 
 <figure><img src="../../../.gitbook/assets/Activate Trader Account.PNG" alt=""><figcaption><p>Activate Trader Account</p></figcaption></figure>
 

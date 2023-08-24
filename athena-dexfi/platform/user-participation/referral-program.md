@@ -16,14 +16,14 @@ In essence, the Athena Dexfi referral program isn't merely about introducing oth
 
 For more information about how to increase your level and earn more commission in the Athena platform, please visit this link below:
 
-{% content-ref url="../ath-token-levels/" %}
-[ath-token-levels](../ath-token-levels/)
+{% content-ref url="ath-token-levels.md" %}
+[ath-token-levels.md](ath-token-levels.md)
 {% endcontent-ref %}
 
 We also have a special Referral Partnership program for influencers or content creators, visit this link below:
 
-{% content-ref url="partnerships-program.md" %}
-[partnerships-program.md](partnerships-program.md)
+{% content-ref url="../../partnerships-program.md" %}
+[partnerships-program.md](../../partnerships-program.md)
 {% endcontent-ref %}
 
 ## Important Resources:

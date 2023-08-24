@@ -6,12 +6,12 @@ description: >-
 
 # 🤝 Partnerships Program
 
-<figure><img src="../../../.gitbook/assets/DexFi.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/DexFi.png" alt=""><figcaption></figcaption></figure>
 
 Influencers and Professional traders can earn 10% from the profit of the users they've invited to the platform with level 2 referral system for more info kindly visit:
 
-{% content-ref url="./" %}
-[.](./)
+{% content-ref url="platform/user-participation/referral-program.md" %}
+[referral-program.md](platform/user-participation/referral-program.md)
 {% endcontent-ref %}
 
 Influencers and traders don't need to lock ATH tokens to the platform to get 10% commissions on all their referrals. But wait, theres more.....
