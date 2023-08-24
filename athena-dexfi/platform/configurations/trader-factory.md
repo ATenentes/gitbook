@@ -34,7 +34,7 @@ Next, you can activate features in the Athena platform for your trading contract
 
 <figure><img src="../../../.gitbook/assets/Activate trader contract 2.PNG" alt=""><figcaption><p>Additional Features for Trading Contract</p></figcaption></figure>
 
-Finally, before deploying the contract, it is crucial to double-check everything to ensure accuracy and avoid potential issues. Additionally, you have the option to activate extra features, such as social boost, which will generate hype for your trading contract through Athena's social media channels once it is deployed. This increased visibility can attract more users and potential investors to your trading contract.
+Finally, before deploying the contract, it is crucial to double-check everything to ensure accuracy and avoid potential issues. Additionally, you have the option to activate extra features, such as social boost, which will generate hype for your trading contract through Athena's social media channels once it is deployed. This increased visibility can attract more users and potential investors to your trading contract. The trader does not pay comissions from his/her profits, they only pay for the creation of contract that they will trade.
 
 ## Important Resources:
 
