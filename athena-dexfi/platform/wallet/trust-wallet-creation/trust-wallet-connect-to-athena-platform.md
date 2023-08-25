@@ -8,7 +8,7 @@ description: >-
 
 First, you need to go to the **Athena DexFi** [Website](https://athenadexfi.com/)
 
-<figure><img src="../../../../.gitbook/assets/connect wallet.png" alt=""><figcaption><p><strong>Click the connect wallet button on the upper right corner of the page</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled design (39).png" alt=""><figcaption></figcaption></figure>
 
 After clicking **connect wallet,** you need to choose **WalletConnect**.
 
@@ -24,11 +24,11 @@ Open your trust wallet or safepal wallet and go to settings and scan the **QR co
 
 After scanning the QR code this will show you the connect button, but you need to first replace the **Ethereum main wallet** with **Binance smart chain and** then connect.
 
-<figure><img src="../../../../.gitbook/assets/photo_2022-12-03_14-12-02 (3).jpg" alt=""><figcaption><p><strong>Click the main wallet</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Add a subheading (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/photo_2022-12-03_14-12-02 (2) (1).jpg" alt=""><figcaption><p><strong>Choose BNB Smart Chain</strong></p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/photo_2022-12-03_14-12-02 (1).jpg" alt=""><figcaption><p><strong>Then Click Connect</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Add a subheading.png" alt=""><figcaption></figcaption></figure>
 
 After connecting the website will show you the terms and services you need to click **accept and connect**
 
