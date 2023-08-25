@@ -26,7 +26,7 @@ If you don't have an **ATH** token please see the link below on how to buy in pa
 
 Go to [https://athenadexfi.com/athenalevel](https://athenadexfi.com/athenalevel) and click **Approve**
 
-<figure><img src="../../../.gitbook/assets/approve.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/22 (1).png" alt=""><figcaption></figcaption></figure>
 
 After you approve, you need to give permission to your wallet, just click **confirm.**
 
@@ -34,31 +34,31 @@ After you approve, you need to give permission to your wallet, just click **conf
 
 After confirming you can see how much you can stake on different Levels,
 
-<figure><img src="../../../.gitbook/assets/Athena Levels (1).PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
 After you stake your ATH token you can now participate in the presale on the **Athena DexFi** Platform: [https://athenadexfi.com/activeproject](https://athenadexfi.com/activeproject)
 
 If you staked Level 3 on **Athena LEVELS** you can already purchase the presale, but don't worry if you don't stake a token you can see the red message, it shows how many days or hours you need to wait in order to participate in the presale even if you hold 0 **ATH token.**
 
-<figure><img src="../../../.gitbook/assets/participate.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/19.png" alt=""><figcaption></figcaption></figure>
 
 Here you can see the list of the active and past projects.
 
-<figure><img src="../../../.gitbook/assets/Active Projects 1.PNG" alt=""><figcaption><p>List of Active Projects where you can participate</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/23.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Past Projects.PNG" alt=""><figcaption><p>List of the Past Projects where you can't participate but you can claim tokens if you participated</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
 When the time comes, you will be able to Participate in the presale even without staking ATH token, you just need to have **BUSD or BNB** in your wallet for contribution and fees.
 
-<figure><img src="../../../.gitbook/assets/Active Project.PNG" alt=""><figcaption><p>Active Project</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 
 During this period, you have the opportunity to contribute to the project being researched by the Athena team. To participate, simply click the "Participate" button and input the amount you wish to invest in the active project.
 
-<figure><img src="../../../.gitbook/assets/Active Project-Claim.PNG" alt=""><figcaption><p>Token Claim</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/21.png" alt=""><figcaption></figcaption></figure>
 
 During this period, you can claim the tokens you invested in during the funding period. The amount of tokens you receive through vesting depends on the specific token project's policy for token release.
 
-<figure><img src="../../../.gitbook/assets/Active Projects-Claimed.PNG" alt=""><figcaption><p>Claimed all the tokens</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/20.png" alt=""><figcaption></figcaption></figure>
 
 Once you claim the tokens, they will be automatically deposited into your wallet and can be traded on any decentralized finance (DEFI) exchanges.
 
