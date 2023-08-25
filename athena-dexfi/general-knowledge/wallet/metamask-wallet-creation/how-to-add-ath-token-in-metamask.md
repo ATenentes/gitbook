@@ -8,21 +8,21 @@ Athena Token **$ATH** is already released to the wallets of our early investors,
 
 First, you need to install Metamask and add the binance smart chain. Just go to [https://chainlist.org/](https://chainlist.org/) See the photo below for reference.
 
-<figure><img src="../../.gitbook/assets/chainlist.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/chainlist.PNG" alt=""><figcaption></figcaption></figure>
 
 **then type on the search bar BSC or binance smart chain.**
 
-<figure><img src="../../.gitbook/assets/bsc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/bsc.png" alt=""><figcaption></figcaption></figure>
 
 **Click add to metamask**
 
-<figure><img src="../../.gitbook/assets/add to meta.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/add to meta.png" alt=""><figcaption></figcaption></figure>
 
 **Then metamask will pop up and you need to approve and switch network to be able to use the binance smart chain.**
 
-<figure><img src="../../.gitbook/assets/approve.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/approve.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/switch.png" alt=""><figcaption></figcaption></figure>
 
 After switching to **Binance smart chain** you can now add **Athena DexFi** token or **ATH** on your metamask wallet. See the tutorial below for more info.
 
@@ -34,13 +34,13 @@ Typically, MetaMask displays ERC-20 standard tokens (or [standard tokens](https:
 
 1. Click on ‘Import tokens’, located at the bottom of the ‘Assets’ tab on your wallet homepage.
 
-<figure><img src="../../.gitbook/assets/bnb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/bnb.png" alt=""><figcaption></figcaption></figure>
 
 2\. Switch to the ‘**Custom token**’ tab at the top, and then enter the token address in the first field. See [below](https://metamask.zendesk.com/hc/en-us/articles/360015489031-How-to-add-unlisted-tokens-custom-tokens-in-MetaMask#h\_01FWKCA7MJG5HT2MSZZ8DJ0QCF) if you don’t know where to find this.
 
 **ATH Contract address is:**
 
-<figure><img src="../../.gitbook/assets/import.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/import.png" alt=""><figcaption></figcaption></figure>
 
 3\. In most cases, the token symbol and token decimal will autofill. Just Click **Add custom token** and you will be able to see your **ATH** tokens.
 

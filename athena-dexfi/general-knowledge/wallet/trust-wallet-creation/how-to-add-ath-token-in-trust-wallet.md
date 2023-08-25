@@ -12,7 +12,7 @@ When a token has been successfully sent to the wallet and it does not appear, it
 
 Tap on the toggle sign in the upper right corner of the main Wallet screen. Search for the token, and if the token is not available, you will see a “**No Asset Found**” message with an **Add Custom Token** button.
 
-<figure><img src="../../.gitbook/assets/trust1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/trust1.png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2. Fill up Token Details <a href="#198d" id="198d"></a>
 
@@ -20,7 +20,7 @@ Tap on **Add Custom Token** button, then make sure that you have selected the co
 
 **ATH Contract address: 0x5597d204118436b5bca397aded5ac6923a26033d**
 
-<figure><img src="../../.gitbook/assets/trust2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/trust2.png" alt=""><figcaption></figcaption></figure>
 
 After pasting or scanning the Contract Address, the other details like the **Name**, **Symbol,** and **Decimals** will be automatically filled up. If not, fill them in manually. Tap on **Save** to continue.
 

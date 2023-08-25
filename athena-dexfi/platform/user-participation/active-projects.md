@@ -8,12 +8,12 @@ description: >-
 
 First, you need to connect your wallet to the **Athena DexFi Platform,** if you don't know how to do that please go to this link where we teach how to connect your wallet using **metamask** or **Trustwallet**.
 
-{% content-ref url="../wallet/trust-wallet-creation/trust-wallet-connect-to-athena-platform.md" %}
-[trust-wallet-connect-to-athena-platform.md](../wallet/trust-wallet-creation/trust-wallet-connect-to-athena-platform.md)
+{% content-ref url="../../general-knowledge/wallet/trust-wallet-creation/trust-wallet-connect-to-athena-platform.md" %}
+[trust-wallet-connect-to-athena-platform.md](../../general-knowledge/wallet/trust-wallet-creation/trust-wallet-connect-to-athena-platform.md)
 {% endcontent-ref %}
 
-{% content-ref url="../wallet/metamask-wallet-creation/metamask-connect-to-athena-platform.md" %}
-[metamask-connect-to-athena-platform.md](../wallet/metamask-wallet-creation/metamask-connect-to-athena-platform.md)
+{% content-ref url="../../general-knowledge/wallet/metamask-wallet-creation/metamask-connect-to-athena-platform.md" %}
+[metamask-connect-to-athena-platform.md](../../general-knowledge/wallet/metamask-wallet-creation/metamask-connect-to-athena-platform.md)
 {% endcontent-ref %}
 
 After you connect your wallet, you have the option to **stake** your **ATH** token if ever you already have one, to be **prioritized** in buying the **presale** of active projects and have fewer fees. Don't worry if you don't have an **ATH** token you can still participate in the presale, as I will explain at the bottom of this page.
