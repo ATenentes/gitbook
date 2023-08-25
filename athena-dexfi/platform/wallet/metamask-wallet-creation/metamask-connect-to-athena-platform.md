@@ -6,7 +6,7 @@ description: This page will teach you how to connect your Metamask to Athena Pla
 
 First, you need to go to the **Athena DexFi** [Website](https://athenadexfi.com/)
 
-<figure><img src="../../../../.gitbook/assets/connect wallet.png" alt=""><figcaption><p><strong>Click the connect wallet button on the upper right corner of the page</strong></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Untitled design (39).png" alt=""><figcaption></figcaption></figure>
 
 You need to choose **Wallet Connect** and you will see all the wallets supported by Athena Platform, go and choose **Metamask**
 
