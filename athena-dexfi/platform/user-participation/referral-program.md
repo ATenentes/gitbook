@@ -4,7 +4,7 @@ description: In this page you will learn how the Referral System in Athena DexFi
 
 # ⭐ Referral Program
 
-<figure><img src="../../../.gitbook/assets/thena Referral Program (1).png" alt=""><figcaption><p>Referral Program Commissions</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/thena Referral Program (2).png" alt=""><figcaption></figcaption></figure>
 
 The Athena Dexfi referral program is a dynamic initiative that empowers users and traders within the Athena Dexfi ecosystem to invite others to join and partake in the platform's diverse contracts and offerings. This program goes beyond the norm, boasting a two-level referral structure that opens up even more avenues for earning rewards and commissions.
 

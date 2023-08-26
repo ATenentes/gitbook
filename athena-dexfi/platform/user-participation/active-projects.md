@@ -24,7 +24,7 @@ If you don't have an **ATH** token please see the link below on how to buy in pa
 [how-to-buy-ath-tokens-in-pancakeswap.md](../../general-knowledge/how-to-buy-ath-tokens-in-pancakeswap.md)
 {% endcontent-ref %}
 
-Go to [https://athenadexfi.com/athenalevel](https://athenadexfi.com/athenalevel) and click **Approve**
+Go to [https://athenadexfi.io/athenalevel](https://athenadexfi.io/athenalevel) and click **Approve**
 
 <figure><img src="../../../.gitbook/assets/22 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +36,7 @@ After confirming you can see how much you can stake on different Levels,
 
 <figure><img src="../../../.gitbook/assets/17.png" alt=""><figcaption></figcaption></figure>
 
-After you stake your ATH token you can now participate in the presale on the **Athena DexFi** Platform: [https://athenadexfi.com/activeproject](https://athenadexfi.com/activeproject)
+After you stake your ATH token you can now participate in the presale on the **Athena DexFi** Platform: [https://athenadexfi.io/activeproject](https://athenadexfi.io/activeproject)
 
 If you staked Level 3 on **Athena LEVELS** you can already purchase the presale, but don't worry if you don't stake a token you can see the red message, it shows how many days or hours you need to wait in order to participate in the presale even if you hold 0 **ATH token.**
 
