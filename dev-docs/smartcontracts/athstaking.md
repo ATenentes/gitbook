@@ -17,6 +17,8 @@
 @notice : set address status of excluding from fee
 @param _addr {address} : the address which will be set status
 @param status {bool} : the new status of address for excluding from fee
+
+onlyOwner
 ```
 
 ## - authorizeStaker
@@ -25,6 +27,8 @@
 @notice : set address staking possiblity
 @param _addr {address} : the address which will be set possiblity
 @param status {bool} : the new status of address for staking possiblity
+
+onlyOwner
 ```
 
 ## - authorizeLevelmanager
@@ -33,6 +37,8 @@
 @notice : set level manager address
 @param _addr {address} : the address which will be set
 @param status {bool} : the new status of address for managing level
+
+onlyOwner
 ```
 
 ## - athLevel
@@ -69,6 +75,8 @@
 @notice : set ath level by level manager
 @param _address {address} : the address which level will be set
 @param _level {uint8} :  the new level
+
+onlyLevelManager
 ```
 
 ## - transferOwnership
@@ -76,6 +84,8 @@
 ```
 @notice : transfer ownership to given address
 @param _newOwner {address} : new owner address
+
+onlyOwner
 ```
 
 ## - setDepositFee
@@ -83,6 +93,8 @@
 ```
 @notice : set new deposit fee
 @param _fee {uint8} : new deposite fee
+
+onlyOwner
 ```
 
 ## - setLockingPeriod
@@ -90,6 +102,8 @@
 ```
 @notice : set locking period
 @param _lockingPeriod {uint32} : new locking period in seconds
+
+onlyOwner
 ```
 
 ## - deposit
@@ -100,7 +114,18 @@
 @param _level {uint8} : index of level for which amount is deposited
 ```
 
-## - withDraw
+## - depositFor
+
+```
+@notice : Authorized staker deposit ath token for specific user
+@param depositAddr : the address will be deposited by authorized
+@param _amount {uint256} : number of ATH tokens to be deposited
+@param _level {uint8} : index of level for which amount is deposited
+
+onlyAuthrizedStaker
+```
+
+## - withdraw
 
 ```
 @notice : authorized staker deposit ath token for specific user

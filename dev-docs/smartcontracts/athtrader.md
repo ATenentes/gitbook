@@ -1,3 +1,7 @@
+---
+description: Contain all swapping and lending functions trading contract
+---
+
 # AthTrader
 
 ## - constructor
@@ -16,6 +20,7 @@
 ```
 @notice : set short order contract address
 @param _addr {address} : short order contract address
+OnlyOwner
 ```
 
 ## - getTradedTokenList
@@ -29,6 +34,7 @@
 
 ```
 @notice : conclude trading contract and send all fund to queue contract
+onlyTrader
 ```
 
 ## - terminateTradingContract
@@ -53,6 +59,8 @@
 @param amountIn_ {uint} : amount of input tokens to send
 @param amountOutMin_ {uint} : minimum amount of output tokens that must be received
 @param deadline_ {uint} : unix timestamp after which the transaction will revert
+
+onlyTrader
 ```
 
 ## - depositToken
@@ -66,6 +74,8 @@
 @param _witness {address} : address of order witness, used by Gelato
 @param _data {bytes} : data to be passed to Gelato, contains outputToken
 @param _secret {bytes32} : key to generate witness, used by Gelato
+
+onlyTrader
 ```
 
 ## - CancelOrder
@@ -76,7 +86,9 @@
 @param _inputToken {address} : address of input token
 @param _owner {address} : address of order Owner - this contract
 @param _witness {address} : address of order witness
-@param _dat {bytes} : data used for order 
+@param _data {bytes} : data used for order 
+
+traderOrOwner
 ```
 
 ## - lendToken
@@ -85,6 +97,8 @@
 @notice : lend token Venus Platform
 @param _token {address} : address of venus token address
 @param _amount {uint256} : amount of underlying token to lend
+
+onlyTrader
 ```
 
 ## - releaseLendedToken
@@ -94,6 +108,8 @@
 @param _token {address} : address of venus token address
 @param _amount {uint256} : amount of underlying token to release
 @param _fullRelease {bool} : if you want to release full lended amount pass true else pass false
+
+onlyTrader
 ```
 
 ## - borrowToken
@@ -102,6 +118,8 @@
 @notice : borrow token from venus platform
 @param _token {address} : address of venus token
 @param _amount {uint256} : amount of underlying token you want to borrow from venus platform
+
+onlyTrader
 ```
 
 ## - repayBorrowToken
@@ -111,6 +129,8 @@
 @param _token {address} : address of venus token
 @param _amount {uint256} : amount of underlying token you want to repay to venus platform
 @param _fullRepay {bool} : if you want to repay full borrowed amount pass true else pass false
+
+onlyTrader
 ```
 
 ## - transferTokenToSOContract
@@ -119,6 +139,8 @@
 @notice : send ERC20 token to Short-order contract
 @param _token {address} : address of ERC20 token address
 @param _amount {uint256} : amount of token want to send to Short-order contract
+
+onlyTrader
 ```
 
 ## - RecoverTokenFromSOContract
@@ -127,6 +149,8 @@
 @notice : function to collect/transfer ERC20 token from Short-order contract
 @param _token {address} : address of ERC20 token address
 @param _amount {uint256} : amount of token want to recover/transfer from Short-order contract
+
+onlyTrader
 ```
 
 ## - internalSwap
@@ -138,6 +162,8 @@
 @param amountIn_ {uint} : amount of input tokens to send
 @param amountOutMin_ {uint} : minimum amount of output tokens that must be received
 @param deadline_ unix {uint} : timestamp after which the transaction will revert
+
+internal
 ```
 
 ## - recoverToken
@@ -145,23 +171,30 @@
 ```
 @notice : recover tokens from the contract
 @param token_ {address} : address of token to recover
+
+onlyTrader
 ```
 
 ## - isTrader
 
 ```
 @notice : check if caller is trader
+
+internal view
 ```
 
 ## - isOwner
 
 ```
 @notice : check if caller is owner
+
+internal view
 ```
 
 ## - isTraderOrOwner
 
 ```
 @notice : check if caller is trader or owner
-```
 
+inernal view
+```

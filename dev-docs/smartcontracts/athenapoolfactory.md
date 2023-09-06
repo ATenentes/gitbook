@@ -1,6 +1,8 @@
+---
+description: IDO Pool Contract Generator
+---
+
 # AthenaPoolFactory
-
-
 
 ## - constructor
 
@@ -15,23 +17,24 @@
 ```
 @notice : creaet IDO pool contract
 @param poolInfo {IDOInfo} :  the information of IDO pool contract to be deployed
+
+onlyOwner
 ```
-
-
 
 ## - setAthStaking
 
 ```
 @notice : set AthStaking address
 @param _athStakingAddress {address} : the address of AthStaking contract
+
+onlyOwner
 ```
-
-
 
 ## - setDevAddress
 
 ```
 @notice : set the DEV address
 @param devAddr {address} : the address of dev team wallet
-```
 
+onlyOwner
+```

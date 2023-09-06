@@ -1,6 +1,8 @@
+---
+description: Referral records and commission management Contract
+---
+
 # AthReferral
-
-
 
 ## - onlyOperator
 
@@ -13,6 +15,8 @@
 ```
 @notice : assign Administrator permission
 @param user {address} : the address to get Admin permission
+
+onlyOwner
 ```
 
 ## - removeAdmin
@@ -20,6 +24,8 @@
 ```
 @notice : remove Administrator permission
 @param user {address} : the address to be removed Admin permission
+
+onlyOwner
 ```
 
 ## - isAdmin
@@ -46,6 +52,13 @@
 @returns : the judgement value
 ```
 
+## - getReferrer
+
+```
+@notice : get Referrer of certain user
+@returns : the address of user to get Referrer
+```
+
 ## - addOperatorToken
 
 ```
@@ -59,6 +72,8 @@
 @notice : record information of referrer and user
 @param _user {address} : the address of user who get refer
 @param _referrer {address} : the address of referrer who refer user
+
+private
 ```
 
 ## - recordReferral
@@ -75,6 +90,8 @@
 @notice : add infromation of referrer refers user
 @param _referrer {address} : the address of referrer who refer user
 @param _user {address} : the address of user who get refer
+
+private
 ```
 
 ## - addUserReferrer
@@ -84,6 +101,8 @@
 @dev : just only call _addUserReferrer function
 @param _referrer {address} : the address of referrer who refer user
 @param _user {address} : the address of user who get refer
+
+onlyOwner
 ```
 
 ## - \_recordReferralCommission
@@ -114,6 +133,8 @@
 ```makefile
 @notice : assign operator permission
 @param _operator {address} : the address to get operator permission
+
+onlyAdmin
 ```
 
 ## - removeOperator
@@ -121,6 +142,8 @@
 ```makefile
 @notice : remove operator permission
 @param _operator {address} : the address to be removed operator permission
+
+onlyAdmin
 ```
 
 ## - drainBEP20Token
@@ -130,6 +153,8 @@
 @param _token {IATHERC20} : the erc20 token
 @param _amount {uint256} : the token amount to drain
 @param _to {address} : the address to be sent tokens
+
+onlyOwner
 ```
 
 ## - claimCommissionByOperator

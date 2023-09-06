@@ -2,7 +2,7 @@
 
 ## 🖥 Infrastructure
 
-* [Repositories & Deploymentt](README.md)
+* [Repositories & Deployment](README.md)
 * [ENV File](infrastructure/env-file.md)
 
 ## 📄 SmartContracts

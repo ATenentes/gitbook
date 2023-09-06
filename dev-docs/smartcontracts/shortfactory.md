@@ -1,6 +1,8 @@
+---
+description: Short Contract creator contract
+---
+
 # ShortFactory
-
-
 
 ## - constructor
 
@@ -50,10 +52,16 @@
 @param tokens_ {address[]} : array of tokens to be removed
 ```
 
+## - isAllowBorrowTokens
+
+```
+@notice : check borrow token list are allowed or not
+```
+
 ## - setOwner
 
 ```
-@notice : set owner address
+@notice : set owner address,  only owner can call this function
 @param owner_ {address} : address of owner
 ```
 
@@ -66,21 +74,21 @@
 ## - removeShortByIndex
 
 ```
-@notice : remove short contract from shorts array by index
+@notice : remove short contract from shorts array by index,  only owner can call this function
 @param index_ {uint256} : index of short contract to be removed
 ```
 
 ## - removeShortByAddress
 
 ```
-@notice : removes short contract from shorts array by address
+@notice : removes short contract from shorts array by address,  only onwer can call this function
 @param shorts_ {address[]} : array of addresses of short contracts to be removed
 ```
 
 ## - createShort
 
 ```
-@notice : create short contract
+@notice : create short contract,  only queueFactory or owner can call this function
 @param _startTime {uint256} : start time of short contract
 @param _queueContractAddress {address} : address of queue contract
 @param _queueAddress {address} : address of queue

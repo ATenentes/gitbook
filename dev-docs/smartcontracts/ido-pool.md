@@ -1,6 +1,8 @@
+---
+description: Instance for each project's IDO
+---
+
 # IDO pool
-
-
 
 ## - constructor
 
@@ -21,8 +23,6 @@
 @param _minContribute {uint256} : the minimum amount of investing
 ```
 
-
-
 ## - isParticipationTimeCrossed
 
 ```
@@ -31,15 +31,11 @@
 @return : return result
 ```
 
-
-
 ## - transferCurrencyToken
 
 ```
 @notice : transfer collectedFee to owner and transfer remain amount dev team wallet address
 ```
-
-
 
 ## - claimableAmount
 
@@ -49,17 +45,15 @@
 @return : available amount to claim
 ```
 
-
-
 ## - addressToString
 
 ```
 @notice : convert address to string
 @param _address {address} : address to be converted
 @return : string of address converted
+
+private
 ```
-
-
 
 ## - getDetailByAddress
 
@@ -72,8 +66,6 @@
 @returns : address for withdrawal
 ```
 
-
-
 ## - getInvestorsDetails
 
 ```
@@ -84,16 +76,12 @@
 @returns : array of address for withdrawal
 ```
 
-
-
 ## - getInvestorList
 
 ```
 @notice : get investor address of the IDO
 @returns : array of investor addresses
 ```
-
-
 
 ## - getTotalReferralFeePaid
 
@@ -102,35 +90,37 @@
 @returns : total referral amount
 ```
 
-
-
 ## - withdraw
 
 ```
 @notice : withdraw tokens after the sale ends and burns the remaining tokens
+
+onlyOwner
 ```
 
 ## - emergencyWithdraw
 
 ```
 @notice : withdraw in case of any possible hack/vulnerability
+
+onlyOwner
 ```
-
-
 
 ## - setTierInfo
 
 ```solidity
 @notice : match fees and tiers according levels
+
+onlyOwner
 ```
-
-
 
 ## - setAthStaking
 
 ```
 @notice : set the AthStaking address
 @param _athStaking {address} : address of AthStaking contract
+
+onlyOwner
 ```
 
 ## - setAthReferral
@@ -138,6 +128,8 @@
 ```
 @notice : set the AthReferral address
 @param _referralAddress {address} : address of AthReferral contract
+
+onlyOwner
 ```
 
 ## - setDevAddress
@@ -145,6 +137,8 @@
 ```
 @notice : set the dev address
 @param _devAddr {address} : address of dev team wallet
+
+onlyOwner
 ```
 
 ## - setTokenAddress
@@ -152,6 +146,8 @@
 ```
 @notice : set the dev address
 @param _token {address} : address of token contract
+
+onlyOwner
 ```
 
 ## - setFundingPeriod
@@ -159,6 +155,8 @@
 ```
 @notice : set funding period
 @param _fundingPeriod {uint256} : new funding period
+
+onlyOwner
 ```
 
 ## - setEndTime
@@ -166,6 +164,8 @@
 ```
 @notice : set the end time
 @param _endTime {uint256} : new end time
+
+onlyOwner
 ```
 
 ## - setReleaseTime
@@ -173,6 +173,8 @@
 ```
 @notice : set the release time
 @param _releaseTime {uint256} : new release time
+
+onlyOwner
 ```
 
 ## - setReleaseTime
@@ -180,18 +182,18 @@
 ```
 @notice : set the release time
 @param _releaseTime {uint256} : new release time
+
+onlyOwner
 ```
-
-
 
 ## - isSoftCap
 
 ```
 @notice : judge if invest more then softcap
 @returns : result of judgement
+
+onlyOwner
 ```
-
-
 
 ## - poolStatus
 
@@ -200,15 +202,13 @@
 @returns : status number
 ```
 
-
-
 ## - revertCurrency
 
 ```
 @notice : return currency to the investors
+
+private
 ```
-
-
 
 ## - recoverToken
 
@@ -216,18 +216,18 @@
 @notice : recover ERC20 token sent to contract by mistake
 @param _tokenAddress {address} : ERC20 token address which need to recover 
 @param _amount {uint256} : amount of token to be recovered
+
+onlyOwner
 ```
-
-
 
 ## - supplyIDOToken
 
 ```
 @notice : supply IDO token to contract
 @param _amount {uint256} : amount of token to be supplied
+
+onlyDevTeamAddr
 ```
-
-
 
 ## - buy
 
@@ -237,15 +237,11 @@
 @param _claimAddress {address} : address to get claim
 ```
 
-
-
 ## - claimTokens
 
 ```
 @notice : withdraw purchased tokens after release time
 ```
-
-
 
 ## - \_calculateReferFee
 
@@ -253,9 +249,9 @@
 @notice : calculate Referral fee by level and feePaid amount
 @param referrer {address} : the address of referrer
 @param feePaid {uint256} : amount of fee paid
+
+internal
 ```
-
-
 
 ## - bulkToReferral
 

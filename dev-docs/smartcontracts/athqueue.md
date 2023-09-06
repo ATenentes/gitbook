@@ -1,3 +1,7 @@
+---
+description: Queue where users put their money and manage it
+---
+
 # AthQueue
 
 ## - constructor
@@ -15,6 +19,8 @@
 ```
 @notice : transfer ownership to given address
 @param _newOwner {address} : new owner address
+
+onlyOwner
 ```
 
 ## - initializeRound
@@ -23,6 +29,8 @@
 @notice : initializes queue contract parameters
 @param participationToken_ {address} : address of participation token contract
 @param minContribution_ {uint256} : minimum contribution required to participate in funding round
+
+trader or Owner
 ```
 
 ## - addToAllowed
@@ -30,6 +38,8 @@
 ```
 @notice : add tokens address to allowed list
 @param allowed {address[]} : address list of tokens
+
+trader or Owner
 ```
 
 ## - removeFromAllowed
@@ -37,6 +47,8 @@
 ```
 @notice : removes token address from allowed list
 @param notAllowed_ {address[]} : addresses of tokens to be removed
+
+trader or Owner
 ```
 
 ## - setShortOrderContractAddr
@@ -44,6 +56,8 @@
 ```
 @notice : set short order contract address
 @param _addr {address} : new short order contract address
+
+owner
 ```
 
 ## - setTraderFee
@@ -51,12 +65,16 @@
 ```
 @notice : set the trader fee
 @param _traderFee {uint8} : new trader fee
+
+onlyTrader
 ```
 
 ## - recoverContract
 
 ```
 @notice : recover value from the contract
+
+onlyOwner
 ```
 
 ## - concludeTradingContract
@@ -66,6 +84,8 @@
 @param forceConclude {bool} : pass true to forceConclude without verifing traded token conversion
 @param operator {address} : the address of operator of current trading
 @param tradedAmount {uint256} : traded amount as participationtoken which would be coming from trading contract
+
+onlyTraderContract
 ```
 
 ## - invest
@@ -86,6 +106,8 @@
 ```
 @notice : remove address from investors array
 @param address_ {address} : address to be removed
+
+private
 ```
 
 ## - distributeRewards
@@ -106,6 +128,8 @@
 @returns : total trader fee
 @returns : total owner fee
 @returns : reward amount
+
+private
 ```
 
 ## - harvestReward
@@ -120,12 +144,16 @@
 @notice : get fee from surPlus amount and athLevel
 @param surPlus {uint256} : surplus amount of participation tokens
 @returns : amount of calculated fee
+
+internal view
 ```
 
 ## - startTrading
 
 ```
 @notice : start trading from queue contract
+
+trader or Owner
 ```
 
 ## - getTraderInfo
@@ -142,6 +170,12 @@
 @notice : get list of standby address and amount
 @returns : list of standby amount
 @returns : list of standby address
+```
+
+## - getStatus
+
+```
+@notice : get current status of queue contract (on cycle or not)
 ```
 
 ## - getclaimableData

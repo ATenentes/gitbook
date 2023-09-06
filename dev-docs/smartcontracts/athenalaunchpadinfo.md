@@ -1,3 +1,7 @@
+---
+description: Contain All IDO contract's information and default parameters
+---
+
 # AthenaLaunchPadInfo
 
 ## - addPresaleAddress
@@ -8,16 +12,12 @@
 @param _presaleProjectID {uint256} : the number of presale contract
 ```
 
-
-
 ## - getPresaleCount
 
 ```
 @notice : return the count of presale contracts
 @return : the count of presale contracts
 ```
-
-
 
 ## - getPresaleAddressByDbId
 
