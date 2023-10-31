@@ -4,6 +4,10 @@ description: Env configuration for athena-web frontend repository
 
 # ENV File
 
+{% hint style="info" %}
+[https://github.com/AthenaDexFi/athena-web](https://github.com/AthenaDexFi/athena-web)
+{% endhint %}
+
 ### [Environment Variables](https://github.com/AthenaDexFi/athena-web#environment-variables) <a href="#user-content-environment-variables" id="user-content-environment-variables"></a>
 
 To run this project, you will need all the variable specified in the .env file.

@@ -8,6 +8,7 @@
 
 ## 📄 SmartContracts
 
+* [Smartcontract Logic](smartcontracts/smartcontract-logic.md)
 * [AthToken](smartcontracts/athtoken.md)
 * [AthenaLaunchPadInfo](smartcontracts/athenalaunchpadinfo.md)
 * [AthenaPoolFactory](smartcontracts/athenapoolfactory.md)
