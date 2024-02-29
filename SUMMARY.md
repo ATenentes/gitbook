@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🅰 Athena DexFi](README.md)
-  * [⚙ Platform](athena-dexfi/platform/README.md)
+* [🅰️ Athena DexFi](README.md)
+  * [⚙️ Platform](athena-dexfi/platform/README.md)
     * [👨🚀 User Participation](athena-dexfi/platform/user-participation/README.md)
       * [📊 Invest in CEX Copy Trading](athena-dexfi/platform/user-participation/cex-copy-trading.md)
       * [📔 Invest in Trader Contracts](athena-dexfi/platform/user-participation/active-trading-contracts.md)
@@ -12,7 +12,7 @@
       * [📊 Trader Dashboard](athena-dexfi/platform/user-participation/trader-dashboard.md)
   * [🤝 Partnerships Program](athena-dexfi/partnerships-program.md)
   * [🔎 General Knowledge](athena-dexfi/general-knowledge/README.md)
-    * [⛓ Wallet](athena-dexfi/general-knowledge/wallet/README.md)
+    * [⛓️ Wallet](athena-dexfi/general-knowledge/wallet/README.md)
       * [Trust Wallet Creation](athena-dexfi/general-knowledge/wallet/trust-wallet-creation/README.md)
         * [Trust Wallet Connect to Athena Platform](athena-dexfi/general-knowledge/wallet/trust-wallet-creation/trust-wallet-connect-to-athena-platform.md)
         * [📝 How to Add ATH token in Trust Wallet](athena-dexfi/general-knowledge/wallet/trust-wallet-creation/how-to-add-ath-token-in-trust-wallet.md)
@@ -23,5 +23,5 @@
     * [❓ FAQ](athena-dexfi/general-knowledge/faq.md)
   * [📚 Research](athena-dexfi/research.md)
   * [🕵♂ Audit](athena-dexfi/audit.md)
-  * [🗃 Resources](athena-dexfi/resources.md)
-  * [🛣 Roadmap](athena-dexfi/roadmap.md)
+  * [🗃️ Resources](athena-dexfi/resources.md)
+  * [🛣️ Roadmap](athena-dexfi/roadmap.md)

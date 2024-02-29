@@ -2,7 +2,7 @@
 description: The native token of Athena DexFi
 ---
 
-# 🪙 ATH token levels
+# 🪙 Staking ATH and token levels
 
 **What is Athena DexFi Token ($ATH)?**
 
@@ -14,7 +14,7 @@ description: The native token of Athena DexFi
 
 **ATH** levels:
 
-* Level 0 0 ATH Token = 40% Level fees
+* Level 0 0 ATH Token = 50% Level fees
 * Level 1 5,000 ATH Token = 30% Level fees
 * Level 2 50,000 ATH Token = 25% Level fees
 * Level 3 500,000 ATH Token = 20% Level fees
