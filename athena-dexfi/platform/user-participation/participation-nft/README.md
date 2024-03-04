@@ -14,7 +14,11 @@ The Athena Participation NFT is more than just a digital token; it is a represen
 
 First, you need to claim your participation NFT before you are able to claim the refund (Initial Investment). You can follow the guide in the link below on how to claim your Participation NFT
 
-_Link_:
+### Learn how to claim your Participation NFT here:
+
+{% content-ref url="how-to-claim-participation-nft.md" %}
+[how-to-claim-participation-nft.md](how-to-claim-participation-nft.md)
+{% endcontent-ref %}
 
 Claiming a refund with your Athena Participation NFT is a straightforward process. Once a presale concludes, navigate to the Athena DexFi platform and locate the specific presale page. Follow the prescribed steps to claim your NFT, ensuring you have the necessary details and confirmation. This action opens the door to reclaiming your initial investment and positions you to benefit from potential profits generated during the presale.
 
