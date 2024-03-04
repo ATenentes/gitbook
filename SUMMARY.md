@@ -6,6 +6,8 @@
       * [📊 Invest in CEX Copy Trading](athena-dexfi/platform/user-participation/cex-copy-trading.md)
       * [📔 Invest in Trader Contracts](athena-dexfi/platform/user-participation/active-trading-contracts.md)
       * [🚀 Invest in Presale Contracts](athena-dexfi/platform/user-participation/active-projects.md)
+      * [🖼️ Participation NFT](athena-dexfi/platform/user-participation/participation-nft/README.md)
+        * [⁉️ How to Claim Participation NFT](athena-dexfi/platform/user-participation/participation-nft/how-to-claim-participation-nft.md)
       * [🪙 Staking ATH and token levels](athena-dexfi/platform/user-participation/ath-token-levels.md)
       * [⭐ Referral Program](athena-dexfi/platform/user-participation/referral-program.md)
       * [👨🏭 Create a Trader Contract](athena-dexfi/platform/user-participation/trader-factory.md)
