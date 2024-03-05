@@ -34,7 +34,9 @@ The NFT generates income through a distinctive process. Upon claiming the Partic
 
 It’s important to note that the Athena DexFi platform itself also earns a portion of the profits. The percentage earned by the platform varies according to the user’s level. This tiered structure adds another layer of complexity to the income generation process, which I will delve into in the next part of the explanation.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="360"><figcaption><p>Sample of Athena DexFi Participation NFT</p></figcaption></figure>
+
+
+<figure><img src="../../../../.gitbook/assets/photo_2024-03-05_12-44-17.jpg" alt="" width="287"><figcaption></figcaption></figure>
 
 **How does the fees calculated?**
 

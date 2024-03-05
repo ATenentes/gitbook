@@ -4,7 +4,7 @@ description: In this page you will learn how to claim your Athena DexFi Particip
 
 # ⁉️ How to Claim Participation NFT
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/photo_2024-03-05_12-44-17.jpg" alt="" width="287"><figcaption></figcaption></figure>
 
 ## **Introduction:**&#x20;
 
