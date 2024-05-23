@@ -2,7 +2,7 @@
 description: A decentralized platform that provides features like centralized exchanges.
 ---
 
-# ⚙ Platform
+# ⚙️ Platform
 
 **Athena DexFi** created a platform in **DEFI** that will allow 100% of new users and experienced traders to:
 
@@ -22,10 +22,10 @@ description: A decentralized platform that provides features like centralized ex
 
 For detailed guide on how to create a trading contract, kindly visit this link below
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="user-participation/trader-factory.md" %}
+[trader-factory.md](user-participation/trader-factory.md)
 {% endcontent-ref %}
 
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi\_Main)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenadexfi.io/)
