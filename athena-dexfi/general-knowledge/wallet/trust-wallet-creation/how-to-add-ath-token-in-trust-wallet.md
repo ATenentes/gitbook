@@ -14,7 +14,7 @@ Tap on the toggle sign in the upper right corner of the main Wallet screen. Sear
 
 <figure><img src="../../../../.gitbook/assets/trust1.png" alt=""><figcaption></figcaption></figure>
 
-## Step 2. Fill up Token Details <a href="#198d" id="198d"></a>
+## Step 2. Fill up Token Details <a href="#id-198d" id="id-198d"></a>
 
 Tap on **Add Custom Token** button, then make sure that you have selected the correct **Network**. For this guide, we need to select **Smart Chain** on the supported **Network**, since this is a token that resides on the **Binance Smart Chain**.
 
@@ -26,8 +26,14 @@ After pasting or scanning the Contract Address, the other details like the **Nam
 
 Hope this tutorial helps you solve your problem of not seeing the ATH token in your meta mask and trust wallet. Kindly follow and be active on our social media and community channels.
 
+## Note:
+
+If you have a problem and you want to speak with support, enter Telegram. It can be in English, Italian or Spanish, and tag an admin. Remember, no admin will ask you for money or your private keys.\
+
+
+**Italian Telegram Link:** [**https://t.me/AthenaDexFi\_it**](https://t.me/AthenaDexFi\_it)\
+**Spanish Telegram Link:** [**https://t.me/AthenaDexFi\_es**](https://t.me/AthenaDexFi\_es)
+
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi\_Main)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenadexfi.io/)

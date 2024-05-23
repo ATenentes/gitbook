@@ -36,6 +36,14 @@ Next, you can activate features in the Athena platform for your trading contract
 
 Finally, before deploying the contract, it is crucial to double-check everything to ensure accuracy and avoid potential issues. Additionally, you have the option to activate extra features, such as social boost, which will generate hype for your trading contract through Athena's social media channels once it is deployed. This increased visibility can attract more users and potential investors to your trading contract. The trader does not pay comissions from his/her profits, they only pay for the creation of contract that they will trade.
 
+## Note:
+
+If you have a problem and you want to speak with support, enter Telegram. It can be in English, Italian or Spanish, and tag an admin. Remember, no admin will ask you for money or your private keys.\
+
+
+**Italian Telegram Link:** [**https://t.me/AthenaDexFi\_it**](https://t.me/AthenaDexFi\_it)\
+**Spanish Telegram Link:** [**https://t.me/AthenaDexFi\_es**](https://t.me/AthenaDexFi\_es)
+
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi\_Main)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenadexfi.io/)

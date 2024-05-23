@@ -32,8 +32,14 @@ Commissions are calculated with a fixed percentage of the invested capital on en
 
 No KYC check is required on the Athena DexFi website, neither the moment you sign up nor later during your investing activity. the platform is managed by a smart contract which does not allow us to intervene in users' funds even at the request of the authorities. The only thing we can do and put you on our blacklist.
 
+## Note:
+
+If you have a problem and you want to speak with support, enter Telegram. It can be in English, Italian or Spanish, and tag an admin. Remember, no admin will ask you for money or your private keys.\
+
+
+**Italian Telegram Link:** [**https://t.me/AthenaDexFi\_it**](https://t.me/AthenaDexFi\_it)\
+**Spanish Telegram Link:** [**https://t.me/AthenaDexFi\_es**](https://t.me/AthenaDexFi\_es)
+
 ## Important Resources:
 
-[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaCryptoBankGroup)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenacryptobank.io/)
-
-[**Whitepaper**](https://athenacryptobank.io/doc/WHITEPAPER\_ATHENA\_CRYPTO\_BANK.pdf)
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi\_Main)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenadexfi.io/)

@@ -68,8 +68,14 @@ This tiered fee structure not only provides users with a direct return on their 
 
 Absolutely! Athena Participation NFTs are tradable assets. Once claimed, you have the flexibility to sell or transfer your NFT to other users. This opens up opportunities to engage in the secondary market, where the value of NFTs can fluctuate based on market demand and the success of associated projects. Ensure you are familiar with the marketplace or platform where you intend to sell your NFT and follow the necessary steps for a secure and efficient transaction. Understanding the Athena Participation NFT empowers you to make informed decisions, capitalize on potential earnings, and actively engage in the dynamic world of decentralized finance. Stay informed, claim your NFT, and explore the possibilities within the Athena DexFi ecosystem. 🚀 #AthenaDexFi #ParticipationNFT #CryptoInvesting”
 
-For info about **Athena DexFi** and the **Presale** visit our [**Telegram**](https://t.me/AthenaDexFi\_Group)
+## Note:
 
-[**Website** ](https://athenadexfi.io/)| [**Facebook** ](https://www.facebook.com/AthenaDexFi)**|** [**Instagram** ](https://www.instagram.com/athenadexfi/)**|** [**Twitter**](https://twitter.com/AthenaDexFi) **|** [**Medium**](https://medium.com/@AthenaDexFi)
+If you have a problem and you want to speak with support, enter Telegram. It can be in English, Italian or Spanish, and tag an admin. Remember, no admin will ask you for money or your private keys.\
 
-[**Youtube** ](https://www.youtube.com/@AthenaDexFi)**|** [**Linkedin**](https://www.linkedin.com/company/athenadexfi/)
+
+**Italian Telegram Link:** [**https://t.me/AthenaDexFi\_it**](https://t.me/AthenaDexFi\_it)\
+**Spanish Telegram Link:** [**https://t.me/AthenaDexFi\_es**](https://t.me/AthenaDexFi\_es)
+
+## Important Resources:
+
+[**Website |** ](https://athenadexfi.io/)[**Twitter |** ](https://twitter.com/AthenaDexFi)[**Telegram |** ](https://t.me/AthenaDexFi\_Main)[**Medium|** ](https://medium.com/@AthenaDexFi)[**Youtube|** ](https://www.youtube.com/@AthenaDexFi)[**Facebook |** ](https://www.facebook.com/AthenaDexFi)[**Forum**](https://forum.athenadexfi.io/)
